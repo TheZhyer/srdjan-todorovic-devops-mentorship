@@ -1,0 +1,4 @@
+ls: cannot access 'test': No such file or directory
+ls: cannot access 'test2': No such file or directory
+ls: cannot access 'badtest': No such file or directory
+-rw-r--r-- 1 zhyer zhyer 0 Mar 19 20:16 test3
